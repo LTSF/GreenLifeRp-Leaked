@@ -1,5 +1,5 @@
 # GreenLifeRp-Leaked
-Slovenski FiveM Server Leakano Od Dem0n#0100
+Slovenski FiveM Server Leakal Dem0n#0100
 
 # Slovenska Prevod
 
@@ -43,6 +43,53 @@ Primer Z Podatki:
 
 ## LICENCA
 
-#Krediti grejo k dem0n#0100 za ta leak :)
+## Krediti grejo k dem0n#0100 za ta leak :)
 
 Krediti Grejo Tudi K GreenLifeRP-ju saj so vse to oni sestavl (se mi zdi)
+
+# English Translation
+
+## Why?
+Because this server is in poor ass condition + because who doesnt love open source projects <3
+
+## What is included in this leak?
+
+Basically everything (jobs, cars, system for robbing/money) and everything else you would want in a FiveM server. (except for /revive LOL)
+
+## Do i have to add anything?
+
+No! A few bugs and exploits ive already fixed so dont worry about that :)
+
+## Are all translations accurate?
+
+I havent touched any of the translations, but like any other Slovenian FiveM server it contains like 4 languages, although the source code is there, google translate is your friend :)
+
+## What is the folder "Druge Stvari Za Server" (Other Things For The Server) for?  1.0
+
+As it says, this is for other things related to the server. This includes a DataBase, The version of FiveM the server is running on, The Startup command, Used ports and The Node version!
+
+I exported everything. Even mobile messages. If you want to clear them just remove them all and have one value set to NULL. If that doesnt work, google is your friend.
+
+## What is the folder "Druge Stvari Za Server" (Other Things For The Server) for? 1.1
+
+Everything is in plain text so its easier to copy ;)
+
+(everything is exported in lines)
+
+Example:
+```sql
+(id, 'license:licenseid', 'steam:steamid', 'live:liveid', 'xbl:xblid', 'discord:discordid', 'ip:their actual ip', 'username'),
+```
+
+Example with data:
+```sql
+(02, 'license:b98a8587231746664c52cfc55cb2e9dda64', 'steam:11003125a424f', 'live:8431231225459983529', 'xbl:22342134677942243', 'discord:657742338332338489', 'ip:178.79.4.49', 'fivemfan832'),
+```
+
+
+## LICENSE
+
+## Credits go to dem0n#0100 for this leak :)
+
+Credit also goes to the team at GreenLifeRP because they put this shit together (i think)
+

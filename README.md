@@ -1,7 +1,11 @@
+## **WARNING: THE ORIGINAL SOURCE OF THIS PROJECT HAS BEEN LOST**
+
+## **OPOZORILO: ORIGINALNA DADOTEKA TEGA PROJEKTA JE BILA IZGUBLJENA**
+
 # GreenLifeRp-Leaked
 Slovenski FiveM Server Leakal Dem0n#0100
 
-# Slovenska Prevod
+# Slovenski Prevod
 
 ## Zakaj?
 Ker server je tko al tko poor k svinja + ker kdo nima rad opensource projectov <3
